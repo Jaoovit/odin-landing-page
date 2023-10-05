@@ -30,3 +30,10 @@ body {
     margin-right: 8px;
     gap: 30px;
 }
+
+button {
+    border-radius: 6px;
+    margin: 2px;
+    background-color:#3882F6;
+    color: white;
+}
