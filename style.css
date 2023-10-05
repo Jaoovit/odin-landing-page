@@ -75,3 +75,23 @@ button {
 .content {
     text-align: center;
 }
+
+.thrid {
+    background-color: #E5E7EB;
+}
+
+.marginquote {
+    padding: 50px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.quote {
+    font-size: 36px;
+    color: #1F2937;
+    font-style: italic;
+}
+
+.author {
+    text-align: end;
+}
