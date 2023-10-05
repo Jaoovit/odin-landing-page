@@ -65,3 +65,13 @@ button {
     border: solid #3882F6;
     border-radius: 8px;
 }
+
+.figuresquad {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.content {
+    text-align: center;
+}
