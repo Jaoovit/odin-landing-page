@@ -42,6 +42,18 @@ button {
     color: white;
 }
 
+.secondbutton {
+    border: solid white;
+    border-radius: 6px;
+    margin: 4px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color:#3882F6;
+    color: white;
+}
+
 .first {
     margin: auto;
     background-color: #1F2937;
@@ -95,3 +107,15 @@ button {
 .author {
     text-align: end;
 }
+
+.call {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    color: white;
+    margin: 50px;
+    margin-left: 150px;
+    margin-right: 150px;
+    background-color:#3882F6;
+}
+
